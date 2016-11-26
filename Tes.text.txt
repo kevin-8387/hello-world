@@ -1,1 +1,2 @@
 git testing
+Now this is a code for branch
