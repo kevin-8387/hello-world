@@ -1,4 +1,5 @@
 git testing
+added new branch "B"
 I am testing conflict
 Now this is a code for branch
 New branch "A"
